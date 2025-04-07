@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1731857228 source:c:\users\user\desktop\cpp codes\flip 'n' find\card.cpp
+	<iostream>
+
+1732250111 c:\users\user\desktop\cpp codes\flip 'n' find\card.h
+	<iostream>
+
+1731854940 source:c:\users\user\desktop\cpp codes\flip 'n' find\deck.cpp
+	"Deck.h"
+	<iostream>
+	<algorithm>
+	<random>
+	<cstdlib>
+	<utility>
+
+1732249992 c:\users\user\desktop\cpp codes\flip 'n' find\deck.h
+	"Card.h"
+	<cmath>
+
+1731867487 source:c:\users\user\desktop\cpp codes\flip 'n' find\game.cpp
+	"Game.h"
+	<iostream>
+
+1732249922 c:\users\user\desktop\cpp codes\flip 'n' find\game.h
+	"Deck.h"
+	"Player.h"
+
+1731868654 c:\users\user\desktop\cpp codes\flip 'n' find\player.h
+	<string>
+	<iostream>
+
+1732218567 source:c:\users\user\desktop\cpp codes\flip 'n' find\main.cpp
+	<iostream>
+	"Card.h"
+	"Deck.h"
+	"Player.h"
+	"Game.h"
+	"StandardCard.h"
+	"BonusCard.h"
+	"PenaltyCard.h"
+
+1731854940 source:c:\users\user\desktop\cpp codes\flip 'n' find\player.cpp
+	"Player.h"
+
+1731854940 source:c:\users\user\desktop\cpp codes\flip 'n' find\standardcard.cpp
+	"Card.h"
+	<iostream>
+
+1731867487 c:\users\user\desktop\cpp codes\flip 'n' find\standardcard.h
+	"Card.h"
+
+1731859712 c:\users\user\desktop\cpp codes\flip 'n' find\bonuscard.h
+	"Card.h"
+
+1731859712 c:\users\user\desktop\cpp codes\flip 'n' find\penaltycard.h
+	"Card.h"
+
+1734217396 source:c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\main.cpp
+	<iostream>
+	"Card.h"
+	"Deck.h"
+	"Player.h"
+	"Game.h"
+	"StandardCard.h"
+	"BonusCard.h"
+	"PenaltyCard.h"
+
+1734217396 c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\card.h
+	<iostream>
+
+1734293590 c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\deck.h
+	<cmath>
+	<cstdlib>
+	"BonusCard.h"
+	"PenaltyCard.h"
+	"StandardCard.h"
+	"Player.h"
+	"Card.h"
+
+1733956054 c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\player.h
+	<string>
+	<iostream>
+
+1734293488 c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\game.h
+	"Deck.h"
+	"Player.h"
+
+1734217396 c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\standardcard.h
+	"Card.h"
+
+1733955720 c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\bonuscard.h
+	"Card.h"
+
+1734217396 c:\users\user\desktop\flip 'n' find (milestone 1)\flip 'n' find (milestone 1)\flip 'n' find\penaltycard.h
+	"Card.h"
+
